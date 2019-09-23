@@ -25,5 +25,8 @@ print(phrase[2])
 print(phrase.index("S"))
 print(phrase.index("i"))
 
+print(phrase)
+print(phrase.replace("variable", "variable_replaced"))
+
 
 
