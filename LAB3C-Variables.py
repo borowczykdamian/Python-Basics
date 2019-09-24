@@ -6,3 +6,4 @@ float_var = 1.5
 
 bool_var = True
 
+print(type(string_var))
